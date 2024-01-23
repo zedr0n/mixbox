@@ -1,0 +1,11 @@
+{
+	"id": "mixbox-plugin",
+	"name": "Mixbox Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Mixbox plugin",
+	"author": "Obsidian",
+	"authorUrl": "zedr0n",
+	"fundingUrl": "https://github.com/zedr0n/mixbox",
+	"isDesktopOnly": false
+}
